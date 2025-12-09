@@ -6,6 +6,7 @@ background-repeat: no-repeat;
  background-position: 10%;
 
 
+
 }
 
 h1{
@@ -51,37 +52,33 @@ font-family: "Jersey 10", sans-serif;
 #volume1{
 
 
-position: relative;
-height: 100px;
-width: 100px;
-left: -10%;
+
 
 
 
 }
 
 #volume2{
-
-
 position: relative;
-top: 200px;
-left: -30%;
+top: 100px;
+
+
+
 
 }
 
 #volume3{
-
 position: relative;
-left: -10%;
-top: 100px;
+top: 150px;
+
 
 }
 
 #volume4{
 
 position: relative;
-top: 300px;
-left: -50px;
+top: 90px;
+
     
 }
 
@@ -89,6 +86,51 @@ left: -50px;
 
 position: relative;
 top: 200px;
-left: 10%;
+left: -60px;
+
+
+}
+
+#volume6{
+
+position: relative;
+top: 230px;
+
+
+
+}
+
+#volume7{
+
+
+position: relative;
+top: 350px;
+
+
+}
+
+#volume8{
+
+position: relative;
+top: 250px;
+
+
+
+}
+
+#volume9{
+
+position: relative;
+top: 100px;
+
+
+
+}
+
+#volume10{
+
+
+  position: relative;
+top: 320px;
 
 }
